@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "ee64f0b8977ad125e42fd4990108d31f"
+build_time: [1652757009, 512436000]
+inputs:
+  "/Users/devaggarwal/Documents/Flutter/expanse_planner/macos/Runner/MainFlutterWindow.swift": [1648486804, 0]
+  "/Users/devaggarwal/Documents/Flutter/expanse_planner/macos/Runner/AppDelegate.swift": [1648486804, 0]
+  "/Users/devaggarwal/Documents/Flutter/expanse_planner/macos/Flutter/GeneratedPluginRegistrant.swift": [1652756985, 73864516]
